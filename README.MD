@@ -1,12 +1,12 @@
 # jsHash
 
-This is a simple implementation of hastable in Javascript
+This is a simple implementation of <a href="https://en.wikipedia.org/wiki/Hash_table">hastable</a> in Javascript
 
 <p align="center"><img src="./jsHash.png"" width="384"></p>
 
 ## Features - 
-1. Automatic loadfactor based hashtable resizing
-2. Data chaining
+1. Automatic <a href="https://stackoverflow.com/questions/10901752/what-is-the-significance-of-load-factor-in-hashmap">loadfactor</a> based hashtable resizing
+2. Data <a href="https://www.educative.io/edpresso/what-is-chaining-in-hash-tables">chaining</a>
 3. No extra dependecies
 4. Only 4KB
 
