@@ -14,13 +14,14 @@ This is a simple implementation of hastable in Javascript
 ### Method 1 - 
 1. Clone this repo and use it in your project
 
-### Method 2 - 
+### Method 2 (NPM)- 
+1. Run this command - ```npm i js-hash-triptex ```
 
 
 ## Usage - 
 
 ```js
-const hashtable = require('./hashtable'); //importing the hash
+const hashtable = require('js-hash-triptex'); //importing the hash
 
 
 const myTable = new hashtable(); 
